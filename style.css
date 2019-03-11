@@ -1,0 +1,41 @@
+body{
+  background: #343434;
+  margin: 0px;
+  font-family: 'Noto Serif', sans-serif;
+
+}
+
+#background{
+  background: #3e3e3e;
+  height: 100%;
+  margin-right: 12.5%;
+  margin-left: 12.5%;
+  height: 100vh;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
+  padding-top: 5%;
+  padding-bottom: 0;
+}
+#top{
+  display: flex;
+  align-items: center;
+}
+
+#rotating-text{
+  padding: 10px;
+}
+
+#content{
+  height: 80vh;
+  width: 50vw;
+  background: #686868;
+  border: 1px;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+
+#Profile{
+  border: 1px solid black;
+  border-radius: 100px;
+}
